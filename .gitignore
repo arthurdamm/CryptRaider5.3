@@ -28,6 +28,10 @@ Thumbs.db
 Cache/
 # *.lock.json
 
+# uasset files of MedievalDungeon exceed github 2GB limits
+Content/MedievalDungeon/
+# Content/MedievalDungeon/*
+
 # Build output
 /Scripts/build/
 

@@ -3,7 +3,7 @@ Binaries/
 Intermediate/
 Saved/
 DerivedDataCache/
-# Build/
+Build/
 
 # Editor specific
 .vs/
@@ -36,3 +36,4 @@ Content/MedievalDungeon/
 /Scripts/build/
 
 windows/
+Android_ASTC/

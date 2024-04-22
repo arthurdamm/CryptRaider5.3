@@ -30,7 +30,7 @@
 					"CryptRaider",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +47,7 @@
 					"CryptRaider",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +67,7 @@
 					"CryptRaider",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +84,7 @@
 					"CryptRaider",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 					"CryptRaider",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +121,7 @@
 					"CryptRaider",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +138,7 @@
 					"CryptRaider",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +155,7 @@
 					"CryptRaider",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +175,7 @@
 					"CryptRaider",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +192,7 @@
 					"CryptRaider",
 					"Win64",
 					"Test",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +209,7 @@
 					"CryptRaider",
 					"Win64",
 					"Test",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +229,7 @@
 					"CryptRaider",
 					"Win64",
 					"Test",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 					"CryptRaider",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +263,7 @@
 					"CryptRaider",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,747 @@
 					"CryptRaider",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Debug",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Cook+Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Debug",
+					"-ServerConfig=Debug",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Debug Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Cook",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Debug",
+					"-ServerConfig=Debug",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Debug Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Debug",
+					"-ServerConfig=Debug",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-DeploySoToDevice",
+					"-SkipCook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaider Android Debug Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Debug",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaider Android Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Debug",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"DebugGame",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Cook+Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=DebugGame",
+					"-ServerConfig=DebugGame",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android DebugGame Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Cook",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=DebugGame",
+					"-ServerConfig=DebugGame",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android DebugGame Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=DebugGame",
+					"-ServerConfig=DebugGame",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-DeploySoToDevice",
+					"-SkipCook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaider Android DebugGame Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"DebugGame",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaider Android DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"DebugGame",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Development",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Cook+Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Development",
+					"-ServerConfig=Development",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Development Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Cook",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Development",
+					"-ServerConfig=Development",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Development Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Development",
+					"-ServerConfig=Development",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-DeploySoToDevice",
+					"-SkipCook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaider Android Development Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Development",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaider Android Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Development",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Test",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Cook+Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Test",
+					"-ServerConfig=Test",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Test Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Cook",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Test",
+					"-ServerConfig=Test",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Test Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Test",
+					"-ServerConfig=Test",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-DeploySoToDevice",
+					"-SkipCook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaider Android Test Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Test",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaider Android Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Test",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Shipping",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Cook+Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Shipping",
+					"-ServerConfig=Shipping",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Shipping Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Cook",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Shipping",
+					"-ServerConfig=Shipping",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-Cook"
+				],
+				"dependsOn": [
+					"CryptRaiderEditor Win64 Development Build",
+					"CryptRaider Android Shipping Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Deploy",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\RunUAT.bat",
+				"args": [
+					"BuildCookRun",
+					"-ScriptsForProject=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-Project=C:/Users/indig/Documents/Unreal Projects/CryptRaider5.3/CryptRaider.uproject",
+					"-noP4",
+					"-ClientConfig=Shipping",
+					"-ServerConfig=Shipping",
+					"-NoCompileEditor",
+					"-utf8output",
+					"-Platform=Android",
+					"-TargetPlatform=Android",
+					"-ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled",
+					"-Compressed",
+					"-IterativeCooking",
+					"-IterativeDeploy",
+					"-DeploySoToDevice",
+					"-SkipCook",
+					"-Stage",
+					"-Deploy"
+				],
+				"dependsOn": [
+					"CryptRaider Android Shipping Build"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Shipping",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"CryptRaider Android Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "CryptRaider Android Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"CryptRaider",
+					"Android",
+					"Shipping",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +1040,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +1057,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +1077,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +1094,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +1111,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +1131,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +1148,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +1165,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +1185,7 @@
 					"CryptRaiderEditor",
 					"Win64",
 					"Development",
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +1202,7 @@
 			{
 				"name": "Launch CryptRaider (Debug)",
 				"request": "launch",
-				"program": "C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "CryptRaider Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +1218,7 @@
 			{
 				"name": "Launch CryptRaider (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "CryptRaider Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +1234,7 @@
 			{
 				"name": "Launch CryptRaider (Development)",
 				"request": "launch",
-				"program": "C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "CryptRaider Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +1250,7 @@
 			{
 				"name": "Launch CryptRaider (Test)",
 				"request": "launch",
-				"program": "C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "CryptRaider Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +1266,7 @@
 			{
 				"name": "Launch CryptRaider (Shipping)",
 				"request": "launch",
-				"program": "C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "CryptRaider Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +1285,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "CryptRaiderEditor Win64 Debug Build",
 				"args": [
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject"
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -562,7 +1302,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "CryptRaiderEditor Win64 DebugGame Build",
 				"args": [
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject"
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -579,7 +1319,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "CryptRaiderEditor Win64 Development Build",
 				"args": [
-					"C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject"
+					"C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -599,7 +1339,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Users\\Arthur Damm\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
+					"-project=C:\\Users\\indig\\Documents\\Unreal Projects\\CryptRaider5.3\\CryptRaider.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

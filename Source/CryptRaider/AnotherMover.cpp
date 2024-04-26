@@ -22,6 +22,7 @@ void UAnotherMover::BeginPlay()
 	Super::BeginPlay();
 
 	// ...
+	OriginalLocation = GetOwner()->GetActorLocation();
 	
 }
 
@@ -32,5 +33,12 @@ void UAnotherMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 	UE_LOG(LogTemp, Warning, TEXT("AnotherMover ticking"));
+	if (!ShouldMove)
+		return;
+	FVector CurrentLocation = GetOwner()->GetActorLocation();
+	FVector TargetLocation = OriginalLocation + MoveOffset;
+	float Speed = FVector::Distance(OriginalLocation, TargetLocation) / MoveTime;
+	FVector NewLocation = FMath::VInterpConstantTo(CurrentLocation, TargetLocation, DeltaTime, Speed);
+	GetOwner()->SetActorLocation(NewLocation);
 }
 
